@@ -6,3 +6,7 @@ Changes that I did are:
 3. made a game over system when coins go negative
 
    THANK YOU!!
+
+
+
+   P.S. It's my first project so your recommendations to improve it are welcome :)
